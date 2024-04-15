@@ -27,7 +27,7 @@ const Footer = () => {
             <Link href="https://www.facebook.com/profile.php?id=61555200031184" target="_blank">
               <Image src="/facebook logo.svg" alt="" width={27} height={27}/>
             </Link>
-            <Link href='https://www.instagram.com/carcare.app/?fbclid=IwAR2wt6As3g5Vq0Ap2bMyJgmfpxf5_4S7R2j4jaAvKTewDuMXFky7gq_j_gQ' target="_blank">
+            <Link href='https://www.instagram.com/_u/carcare.mongolia?fbclid=IwAR0eQ8jX4hBS3vz_HsrO7MjDfMNnTmAmZr4UB8lVgrC-mzJ-Mky5T0uNX4g' target="_blank">
               <Image src="/instagram logo.svg" alt="" width={60} height={60}/>
             </Link>
             <Link href='https://www.linkedin.com/company/car-care-application/about/' target="_blank">
